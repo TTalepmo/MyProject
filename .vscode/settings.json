@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3_07.sln"
+    "dotnet.defaultSolution": "MyProject.sln"
 }
