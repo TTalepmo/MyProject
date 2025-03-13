@@ -115,6 +115,6 @@ public class SettingsMenu : MonoBehaviour
 
     public void CloseSettings()
     {
-        settingsMenu.SetActive(true);
+        settingsMenu.SetActive(false);
     }
 }
